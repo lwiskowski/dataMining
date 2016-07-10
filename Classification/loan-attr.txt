@@ -1,0 +1,4 @@
+homeowner     no yes
+maritalStatus single married divorced
+income        continuous
+loanDefault   no yes

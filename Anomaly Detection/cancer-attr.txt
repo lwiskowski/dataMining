@@ -1,0 +1,11 @@
+sample             ID
+clumpThickness     continuous
+cellSize           continuous
+cellShape          continuous
+marginalAdhesion   continuous
+epithelialCellSize continuous
+bareNuclei         continuous
+blandChromatin     continuous
+normalNucleoli     continuous
+mituses            continuous
+class              benign malignant

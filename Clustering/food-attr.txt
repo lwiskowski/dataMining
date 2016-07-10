@@ -1,0 +1,7 @@
+food     ID
+energy   continuous
+protein  continuous
+fat      continuous
+calcium  continuous
+iron     continuous
+class    meat seafood poultry

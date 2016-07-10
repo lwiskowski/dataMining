@@ -1,0 +1,3 @@
+point ID
+x     continuous
+y     continuous
